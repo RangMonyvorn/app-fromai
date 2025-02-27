@@ -1,0 +1,7 @@
+{
+    "products": [
+      { "id": 1, "name": "nike zoom", "price": 100 ,"image":"./src/nike1.png"},
+      { "id": 2, "name": "Product 2", "price": 200 ,"image":"./src/nike 2.png" },
+      { "id": 3, "name": "Product 3", "price": 300 , "image":"./src/nike 3.png"}
+    ]
+}
