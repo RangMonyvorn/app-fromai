@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './App.css';
 
-function Navbar({ cart, handleClick }) {
+function Navbar({handleClick , cartcount}) {
   return (
     <div className="navbar">
       <h1>VGET</h1>
@@ -14,7 +14,7 @@ function Navbar({ cart, handleClick }) {
       </nav>
       <div onClick={handleClick} className="cart-button">
           <span>🛒</span>
-          <span>{cart.length}</span>
+          <span>{cartcount}</span>
       </div>
     </div>
   );

@@ -1,7 +1,13 @@
 {
     "products": [
-      { "id": 1, "name": "nike zoom", "price": 100 ,"image":"./src/nike1.png"},
-      { "id": 2, "name": "Product 2", "price": 200 ,"image":"./src/nike 2.png" },
-      { "id": 3, "name": "Product 3", "price": 300 , "image":"./src/nike 3.png"}
+      { "id": 1, "name": "nike zoom", "price": 100 ,"image":"./src/image/nike 5.webp"},
+      { "id": 2, "name": "nike akira", "price": 200 ,"image":"./src/image/nike 6.webp" },
+      { "id": 3, "name": "nike 2017", "price": 300 , "image":"./src/image/nike 3.png"},
+      { "id": 4, "name": "nike 1000", "price": 400 , "image":"./src/image/nike 4.png"},
+      { "id": 5, "name": "nike 2011", "price": 500 , "image":"./src/image/nike 2.png"},
+      { "id": 6, "name": "nike 2019", "price": 600 , "image":"./src/image/nike1.png"},
+      { "id": 7, "name": "nike akira", "price": 400 , "image":"./src/image/nike grils 3.png"},
+      { "id": 8, "name": "nike zoom", "price": 500 , "image":"./src/image/nike grils 4.webp"},
+      { "id": 9, "name": "nike grils", "price": 600 , "image":"./src/image/nike grils 5.png"}
     ]
 }
